@@ -1,2 +1,2 @@
 # TR31
-ANSI X9.24
+TR-31 key block format (ANSI X9.24)
